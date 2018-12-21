@@ -1,0 +1,12 @@
+{
+  "name": "learning-typescript-basics",
+  "version": "1.0.0",
+  "description": "Learning TypeScript from the scratch",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node compiled-codes/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dinesh Rajasekar",
+  "license": "ISC"
+}
